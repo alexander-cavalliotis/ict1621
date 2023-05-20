@@ -1,0 +1,25 @@
+p {
+	color: rgba(150, 232, 53,41);	
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+header, header > p {
+	background-color: blue;
+	color: white;
+	
+}
+
+body {
+	border: 15px solid white;
+	padding: 50px;
+	margin: 20px;	
+}
+
+footer, footer > p {
+	background-color: red;
+	color: white;
+}
+
